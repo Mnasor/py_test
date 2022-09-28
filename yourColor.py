@@ -30,3 +30,5 @@ print("he liked his name " + character_name)
 print("but he wasn't happy about being "+character_age)
 
 print("pushhhh")
+
+print("push_1")
